@@ -16,6 +16,8 @@
   "homepage": "https://saurabhkumarmaddheshiya.github.io/my-todo-app/",
 
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
