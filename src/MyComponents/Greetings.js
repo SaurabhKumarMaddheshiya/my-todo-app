@@ -22,7 +22,7 @@ if (currDate >= 1 && currDate <= 11) {
 }
 const Greetings = () => {
     return (
-    <div className="container">
+    <div className="container my-3">
       <h5>
         Hello, <span style={greetingStyle}>{greeting}</span>
       </h5>
