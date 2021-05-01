@@ -16,7 +16,7 @@ export default function Header(props) {
           <Link className="nav-link active" aria-current="page" to="/my-todo-app">Home</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link active" aria-current="page" to="/my-todo-app/about">About</Link>
+          <Link className="nav-link active" aria-current="page" to="/about">About</Link>
         </li>
       </ul>
       <form className="d-flex">
