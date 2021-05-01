@@ -58,7 +58,7 @@ function App() {
   <Router>
   <Header title="My Todos List"/> 
     <Switch>
-          <Route exact path={window.location.href} render={()=>{
+          <Route exact path="" render={()=>{
             return(
             <>
               <Greetings /> 
