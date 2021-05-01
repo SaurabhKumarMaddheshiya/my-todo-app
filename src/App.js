@@ -58,7 +58,7 @@ function App() {
   <Router>
   <Header title="My Todos List"/> 
     <Switch>
-          <Route exact path="/my-todo-app" render={()=>{
+          <Route exact path="" render={()=>{
             return(
             <>
               <Greetings /> 
