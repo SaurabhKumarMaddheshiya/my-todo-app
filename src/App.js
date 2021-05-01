@@ -67,7 +67,7 @@ function App() {
             </>)
           }}>
           </Route>
-          <Route exact path="/my-todo-app/about">
+          <Route exact path="/about">
             <About />
           </Route>
         </Switch>
