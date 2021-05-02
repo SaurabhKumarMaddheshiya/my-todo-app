@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/MyComponents/footer.css"],"names":[],"mappings":"AAAA,OACI,cAAe,CACf,UAAW,CACX,QACJ","file":"main.d62521a6.chunk.css","sourcesContent":["footer {\r\n    position: fixed;\r\n    width: 100%; \r\n    bottom: 0;\r\n}"]}
